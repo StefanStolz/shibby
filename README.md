@@ -2,6 +2,6 @@
 
 From local
 
-This is a test
+This is a test gulu
 
 a line from remote
